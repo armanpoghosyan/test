@@ -1,4 +1,4 @@
-Install depandancy 
+Install dependency 
 ### `yarn install`
 
 APP Build
