@@ -1,0 +1,9 @@
+.navigation {
+  display: inline-block;
+  vertical-align: top;
+  width: 250px;
+
+  @media (max-width: 740px) {
+    width: 100%;
+  }
+}
